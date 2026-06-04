@@ -35,7 +35,7 @@ Após a instalação, faça login utilizando sua conta Microsoft.
 
 ## 3. Instalar os Mods
 
-1. Baixe o arquivo **mods-client-side.zip**.
+1. Baixe a pasta **mods-client-side**.
 2. Extraia o conteúdo do arquivo.
 3. Abra o Modrinth App.
 4. Vá até a instância criada.
